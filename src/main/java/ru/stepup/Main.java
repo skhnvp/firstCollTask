@@ -14,11 +14,11 @@ public class Main {
             int num = s.nextInt();
 
             if (num % 2 == 0) {
-                for (Integer i = 1; i <= num; i++) {
+                for (int i = 1; i <= num; i++) {
                     l.add(i);
                 }
 
-                Integer temp = 0;
+                int temp = 0;
 
                 for (int i = 0; i < l.size(); i++) {
                     temp = l.get(i);
