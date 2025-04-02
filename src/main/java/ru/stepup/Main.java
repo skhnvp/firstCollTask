@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/*
+Задайте лист размерностью N, где N — чётное число, а содержимое — числа от 1 до N.
+
+Поменяйте местами попарно его элементы. То есть первый со вторым, третий с четвёртым и т.д.
+*/
+
 public class Main {
     public static void main(String[] args) {
 
